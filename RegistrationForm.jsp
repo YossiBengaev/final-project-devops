@@ -5,7 +5,7 @@
 <head>
 <style>
 body{
-	background-color: rgba(0, 140, 186, 0.5);}
+	background-color: rgba(0, 140, 187, 0.5);}
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
