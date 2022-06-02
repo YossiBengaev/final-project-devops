@@ -5,7 +5,7 @@
 <head>
 <style>
 body{
-	background-color: rgba(0, 140, 187, 0.5);}
+	background-color: rgba(0, 140, 186, 0.5);}
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -15,9 +15,9 @@ img {
 /* Add a hover effect (blue shadow) */
 img:hover {   box-shadow: 0 0 2px 1px rgba(100, 100, 100, 0); }
 
-h1{ font-size: 60px; color:gray; text-align: center; font-family:verdana;}
-h2{ font-size: 40px; color:gray; text-align: center; font-family:verdana;}
-h3{ font-size: 30px; color:gray; text-align: center; font-family:verdana;}
+h1{ font-size: 60px; color:white; text-align: center; font-family:verdana;}
+h2{ font-size: 40px; color:white; text-align: center; font-family:verdana;}
+h3{ font-size: 30px; color:white; text-align: center; font-family:verdana;}
 td{ font-size: 25px; color:white; text-align: center; font-family:verdana;}
 
 </style>
