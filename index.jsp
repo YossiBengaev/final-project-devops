@@ -15,7 +15,7 @@ img {
 /* Add a hover effect (blue shadow) */
 img:hover {   box-shadow: 0 0 2px 1px rgba(100, 100, 100, 0); }
 
-h1{ font-size: 60px; color:red; text-align: center; font-family:verdana;}
+h1{ font-size: 60px; color:white; text-align: center; font-family:verdana;}
 h2{ font-size: 40px; color:white; text-align: center; font-family:verdana;}
 h3{ font-size: 30px; color:white; text-align: center; font-family:verdana;}
 td{ font-size: 25px; color:white; text-align: center; font-family:verdana;}
